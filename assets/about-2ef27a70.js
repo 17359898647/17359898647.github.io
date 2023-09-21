@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as e,c as t,br as o}from"./index-fe7feb26.js";const s=r({},[["render",function(r,s){const n=o;return e(),t(n,{title:"关于"})}]]);export{s as default};
