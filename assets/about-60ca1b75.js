@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as e,c as s,w as r,bw as o,a}from"./index-238407ab.js";import{_ as n}from"./Input-d989b6c2.js";import"./use-merged-state-65ab3d52.js";const p=t({},[["render",function(t,p){const i=n,m=o;return e(),s(m,{title:"关于"},{default:r((()=>[a(i)])),_:1})}]]);export{p as default};
