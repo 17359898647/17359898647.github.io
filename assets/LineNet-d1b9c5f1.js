@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as t,H as e}from"./index-e77359d7.js";const o={src:"https://17359898647.github.io/"};const s=r({},[["render",function(r,s){return t(),e("iframe",o)}]]);export{s as default};
