@@ -1,1 +1,0 @@
-import{_ as o}from"./IframeCom-c5ecd8ec.js";import{_ as r}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as t,c as e}from"./index-6121a986.js";import"./use-compitable-1fe48a9f.js";const s=r({},[["render",function(r,s){const i=o;return t(),e(i,{src:"https://www.naiveui.com/zh-CN/light"})}]]);export{s as default};
