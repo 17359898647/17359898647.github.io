@@ -1,0 +1,1 @@
+import{_ as r}from"./IframeCom-9785f8aa.js";import{_ as o}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as s,c as e}from"./index-71e3326a.js";import"./use-compitable-9b6c5130.js";const t=o({},[["render",function(o,t){const m=r;return s(),e(m,{src:"https://cn.vuejs.org/"})}]]);export{t as default};
