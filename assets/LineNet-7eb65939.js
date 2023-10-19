@@ -1,1 +1,0 @@
-import{_ as o}from"./IframeCom-916790a2.js";import{_ as r}from"./_plugin-vue_export-helper-1b428a4d.js";import{o as t,c as s}from"./index-a01fe237.js";import"./use-compitable-4f5f70e0.js";const e=r({},[["render",function(r,e){const i=o;return t(),s(i,{src:"https://17359898647.github.io/"})}]]);export{e as default};
