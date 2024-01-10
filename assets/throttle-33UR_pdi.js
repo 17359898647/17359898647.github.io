@@ -1,1 +1,0 @@
-import{d as i}from"./debounce-FdcB0W0r.js";import{de as n}from"./index-Qa5VqOB0.js";function r(r,t,e){var a=!0,o=!0;if("function"!=typeof r)throw new TypeError("Expected a function");return n(e)&&(a="leading"in e?!!e.leading:a,o="trailing"in e?!!e.trailing:o),i(r,t,{leading:a,maxWait:t,trailing:o})}export{r as t};
