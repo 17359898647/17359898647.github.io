@@ -1,1 +1,0 @@
-import{_ as e}from"./IframeCom-twfIFE3h.js";import{d as r,dr as s,o as t,c as o}from"./index-CvsuVFB3.js";import"./use-compitable-8i0bmjgM.js";import"./_plugin-vue_export-helper-NGi3vMWx.js";const a=r({__name:"NaiveUi",setup(r){const a="https://www.naiveui.com/zh-CN/"+(s.value?"dark":"light");return(r,s)=>{const i=e;return t(),o(i,{src:a})}}});export{a as default};

@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-NGi3vMWx.js";import{o as e,J as o}from"./index-TT8m0MkK.js";const t=r({},[["render",function(r,t){return e(),o("div",null," editor ")}]]);export{t as default};
